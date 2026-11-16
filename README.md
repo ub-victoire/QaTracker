@@ -182,7 +182,7 @@ bash run.sh demo-testcases.xml < examples/demo-input.txt
 
 ## 6. File persistence decisions
 
-The assessment does not prescribe CSV, JSON, or any particular extension. This
+As assessment does not prescribe CSV, JSON, or any particular extension. This
 implementation uses the JDK's `Properties.storeToXML` / `loadFromXML` API so Java
 handles XML escaping, Unicode, delimiter characters, and multiline fields. There
 is no hand-written CSV parser and no Java object deserialization.
