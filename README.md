@@ -3,10 +3,8 @@
 A small, menu-driven Java application for the Module 2 capstone. It manages manual
 and automated test cases and restores them from a local file between sessions.
 
-**Recommended environment:** your existing JDK 25, Ubuntu, VS Code, and Git.
-The source deliberately targets Java 21 for portability and works on JDK 25
-without changing anything or enabling preview features. Modern Java does not
-require using preview syntax or adding a framework.
+**Recommended environment:** JDK 25, Ubuntu, VS Code, and Git.
+The source deliberately targets Java 21 for portability and works on JDK 25.
 
 ## 1. Run on Ubuntu
 
