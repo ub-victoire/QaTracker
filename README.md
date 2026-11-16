@@ -159,7 +159,7 @@ bash check.sh
 
 This compiles the project and runs 57 checks using plain Java. JUnit is not needed.
 Checks use explicit failures, so the Java `-ea` assertion flag is not required.
-Tests use temporary directories and do not alter your real save file.
+Tests use temporary directories and do not alter the real save file.
 
 For the optional terminal integration checks, install nothing extra if Python 3
 is already on Ubuntu, compile first, then run:
