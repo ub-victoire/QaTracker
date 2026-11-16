@@ -1,0 +1,25 @@
+1
+Login works
+Valid credentials
+Account exists
+Dashboard opens
+Manual
+Alex
+1
+API search
+Find LOGIN field
+
+200 response
+Automated
+tests/search.java
+2
+3
+1
+1
+3
+2
+2
+4
+LoGiN
+5
+6

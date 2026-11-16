@@ -1,0 +1,8 @@
+out/
+testcases.xml
+qa-tracker-*.tmp
+*.class
+*~
+*.swp
+*.swo
+*.java.save
