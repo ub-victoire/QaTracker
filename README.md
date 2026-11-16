@@ -149,9 +149,7 @@ This is a conventional source layout without requiring a build tool.
 8. `Main`: creates the collaborating objects and starts the application.
 9. `QaTrackerTests`: executable examples of rules and edge cases.
 
-See `docs/DESIGN.md` for the OOP explanation. You should be able to explain the
-implementation yourself during the practical assessment; do not submit code you
-cannot walk through. Follow your course's rules about external assistance.
+See `docs/DESIGN.md` so you can understand the structure and design.
 
 ## 5. Tests
 
