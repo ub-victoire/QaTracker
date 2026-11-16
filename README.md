@@ -8,9 +8,6 @@ The source deliberately targets Java 21 for portability and works on JDK 25.
 
 ## 1. Run on Ubuntu
 
-Extract this project, open its `QaTracker` folder in VS Code, and open a terminal
-at that folder (the one containing this README).
-
 ```bash
 java -version
 javac -version
