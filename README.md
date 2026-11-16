@@ -36,7 +36,7 @@ list from a file. Run the **class name**, not the `.java` path, to execute the
 compiled program. With a manual launch, the default data path is relative to your
 current working directory, so launch from the project root.
 
-An optional path is useful for practice without touching your normal save:
+An optional path is useful for practice without touching  normal save:
 
 ```bash
 bash run.sh practice-testcases.xml
