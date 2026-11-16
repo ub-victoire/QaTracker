@@ -166,6 +166,7 @@ is already on Ubuntu, compile first, then run:
 
 ```bash
 bash check.sh
+python3 tests/cli_checks.py
 ```
 
 The Python helper uses only the standard library. It starts the actual Java
