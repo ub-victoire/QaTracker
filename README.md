@@ -41,7 +41,7 @@ An optional path is useful for practice without touching the normal save:
 ```bash
 bash run.sh practice-testcases.xml
 ```
-This files are not commited
+This files are not committed
 `testcases.xml` is already ignored by Git. Add other local data filenames to
 `.gitignore` as needed.
 
