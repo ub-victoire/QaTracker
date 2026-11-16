@@ -115,7 +115,7 @@ QaTracker/
 ├── check.sh
 ├── docs/
 │   ├── DESIGN.md
-│   ├── DEMO-CHECKLIST.md
+│   ├── 
 │   └── VERIFICATION.md
 ├── examples/demo-input.txt
 ├── tests/cli_checks.py
