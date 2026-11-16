@@ -16,7 +16,7 @@ bash run.sh
 ```
 
 No Maven, Gradle, database, internet access, or external Java dependency is needed.
-If using a file manager, scripts do not need executable permission when run with `bash`.
+- **Ntice** If using a file manager, scripts do not need executable permission when run with `bash`.
 
 `run.sh` changes into the project root, compiles the source, and launches
 `org.qatracker.Main`. The default save file is **testcases.xml in the project root**.
