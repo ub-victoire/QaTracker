@@ -1,5 +1,7 @@
 # Design and OOP walkthrough
 
+> Done by **Ushindi B. Victoire** Software Q.A Engineer  | Requirement Specialist | @ub-victoire @ub-victor
+
 ## Responsibilities
 
 | Component | Responsibility | Deliberately does not do |
@@ -97,3 +99,5 @@ concurrent writers, or autosave is required. The code does not add these feature
 The table prints full values; very long strings can exceed a narrow terminal.
 Startup error messages currently return normally rather than exposing a separate
 nonzero command-line exit-code contract; this assessment targets interactive use.
+
+> Done by **Ushindi B. Victoire** Software Q.A Engineer  | Requirement Specialist | @ub-victoire @ub-victor
