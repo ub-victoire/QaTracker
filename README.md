@@ -202,16 +202,3 @@ This is a **single-process learning application**. Do not run two copies against
 the same save file; it has no cross-process locking or merge support. Saved data
 is not encrypted. Use fictional examples and avoid storing credentials or secrets.
 
-```bash
-git init -b main
-git add .
-git diff --cached --stat
-git diff --cached
-git commit -m "Build QA Tracker Java capstone"
-```
-
-Review the staged files: no `out/`, `.class`, runtime data, or editor backups.
-Create an empty hosted repository under your account, add its actual URL as
-`origin`, and push with `git push -u origin main`. Coordinate ownership and branch
-workflow with your group; the assessment is a group project. Do not claim work
-you did not do. Demonstrate each required feature and explain your contribution.
