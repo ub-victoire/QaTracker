@@ -202,9 +202,6 @@ This is a **single-process learning application**. Do not run two copies against
 the same save file; it has no cross-process locking or merge support. Saved data
 is not encrypted. Use fictional examples and avoid storing credentials or secrets.
 
-
-If no repository exists and no parent repository contains this folder:
-
 ```bash
 git init -b main
 git add .
