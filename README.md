@@ -1,5 +1,7 @@
 # QA Tracker
 
+>Done by **Ushindi B. Victoire** Software Q.A Engineer  | Requirement Specialist | @ub-victoire @ub-victor
+
 A small, menu-driven Java application for the Module 2 capstone. It manages manual
 and automated test cases and restores them from a local file between sessions.
 
