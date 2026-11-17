@@ -204,3 +204,4 @@ This is a **single-process learning application**. Do not run two copies against
 the same save file; it has no cross-process locking or merge support. Saved data
 is not encrypted. Use fictional examples and avoid storing credentials or secrets.
 
+> Done by **Ushindi B. Victoire** Software Q.A Engineer  | Requirement Specialist | @ub-victoire @ub-victor
