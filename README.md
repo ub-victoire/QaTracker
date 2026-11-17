@@ -202,14 +202,6 @@ This is a **single-process learning application**. Do not run two copies against
 the same save file; it has no cross-process locking or merge support. Saved data
 is not encrypted. Use fictional examples and avoid storing credentials or secrets.
 
-## 7. Git submission
-
-Create a new independent repository at this project root, not inside another
-exercise repository. Check first:
-
-```bash
-git rev-parse --show-toplevel
-```
 
 If no repository exists and no parent repository contains this folder:
 
